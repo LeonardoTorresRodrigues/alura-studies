@@ -9,6 +9,8 @@ Crie suas tarefas e adicione um tempo para cada.
 | :rocket: URL         | https://alura-studies-jkx4vlafv-leonardotorresrodrigues.vercel.app/
 | :fire: Desafio     | https://cursos.alura.com.br/course/react-modernizando-escrever-typescript
 
+![badge](https://img.shields.io/badge/version-1.0-green)
+
 ![Captura de Tela (141)](https://user-images.githubusercontent.com/91892938/196989728-6499c02f-7c8b-478b-8fd4-47b1f9dcbad0.png#vitrinedev)
 
 ## Detalhes do projeto
