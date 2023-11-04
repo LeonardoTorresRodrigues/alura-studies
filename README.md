@@ -21,8 +21,4 @@ Crie suas tarefas e adicione um tempo para cada.
 
 ![2022-10-20 12-22-58](https://user-images.githubusercontent.com/91892938/196991360-473b000f-10b2-4ed7-8179-03abd323636b.gif)
 
-# Próximas atualizações
-
-:construction: Botão de pause :construction:
-
-:construction: Botão de delete :construction:
+### 🚧 Nova versão em breve!
